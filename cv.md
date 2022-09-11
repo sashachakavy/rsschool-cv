@@ -13,8 +13,8 @@ I have good technical and teamwork skills.
 * HTML
 * CSS
 * Git
-## Code example:
 ```
+## Code example:
 function isUnique(string) {
 	for (let i = 0; i < string.length; i++) {
         const char = string[i];
