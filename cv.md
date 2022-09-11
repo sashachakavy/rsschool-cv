@@ -27,3 +27,9 @@ function isUnique(string) {
     return true;
 }
 ```
+## Experience
+Not now...
+## Education
+* **University**: Belarusian State Academy of Communications, information communications engineer
+## Language
+English level - A2
